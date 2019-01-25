@@ -1,5 +1,5 @@
 # goss-results-sem3
-##Задания
+## Задания за третий семестр
 
 ### PZAT-001 / TEST-001 
 https://kodaktor.ru/g/07092018
