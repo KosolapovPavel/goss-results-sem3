@@ -1,22 +1,24 @@
 # goss-results-sem3
 Задания
 
-+ PZAT-001 / TEST-001 
+# PZAT-001 / TEST-001 
 https://kodaktor.ru/g/07092018
 Асинхронное тестирование, Zombie + Puppeteer
 
 
-+ NODE-001  
+# NODE-001
+
 https://kodaktor.ru/g/14092018
 Создание простого сервера на простом модуле http
 
 
-+ NODE-002  
+# NODE-002  
+
 https://kodaktor.ru/g/weather_task
 Считывание информации из API
 
 
-+ NODE-003  
+# NODE-003  
 https://kodaktor.ru/rss_task
 Считывание информации из RSS
 
